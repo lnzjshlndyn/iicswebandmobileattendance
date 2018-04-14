@@ -1,0 +1,30 @@
+[01/Apr/2018 2:41:07 PM] (logLogout) Logged out user: staff
+[01/Apr/2018 2:41:20 PM] (loginAuth) Logged in user: staff
+[02/Apr/2018 10:14:03 PM] (loginAuth) Failed login attempt by: lanz
+[02/Apr/2018 10:14:09 PM] (loginAuth) Logged in user: staff
+[04/Apr/2018 9:10:25 PM] (loginAuth) Failed login attempt by: admin
+[04/Apr/2018 9:10:28 PM] (loginAuth) Logged in user: staff
+[05/Apr/2018 8:04:18 PM] (loginAuth) Failed login attempt by: admin
+[05/Apr/2018 8:04:24 PM] (loginAuth) Logged in user: staff
+[06/Apr/2018 11:24:32 PM] (loginAuth) Failed login attempt by: admin
+[06/Apr/2018 11:24:36 PM] (loginAuth) Logged in user: staff
+[07/Apr/2018 9:45:52 AM] (loginAuth) Logged in user: staff
+[07/Apr/2018 10:17:32 AM] (logLogout) Logged out user: staff
+[07/Apr/2018 10:17:35 AM] (loginAuth) Logged in user: admin
+[09/Apr/2018 12:43:42 AM] (loginAuth) Logged in user: admin
+[09/Apr/2018 12:43:53 AM] (logLogout) Logged out user: admin
+[09/Apr/2018 12:43:56 AM] (loginAuth) Logged in user: admin
+[09/Apr/2018 2:04:26 AM] (loginAuth) Logged in user: admin
+[09/Apr/2018 11:58:36 AM] (loginAuth) Logged in user: admin
+[10/Apr/2018 8:17:54 PM] (loginAuth) Logged in user: admin
+[11/Apr/2018 10:12:47 PM] (logLogout) Logged out user: 
+[11/Apr/2018 10:13:00 PM] (forgotPasswordDB) Recovery password sent to: lanzlandayan@gmail.com
+[11/Apr/2018 10:15:16 PM] (loginAuth) Recovery password entered by: lanz
+[11/Apr/2018 10:15:23 PM] (changePasswordDB) Password updated by: lanz
+[11/Apr/2018 10:15:29 PM] (loginAuth) Logged in user: lanz
+[12/Apr/2018 12:21:56 AM] (logLogout) Logged out user: lanz
+[12/Apr/2018 12:33:50 AM] (loginAuth) Logged in user: lanz
+[12/Apr/2018 1:32:33 AM] (loginAuth) Logged in user: lanz
+[12/Apr/2018 1:32:35 AM] (logLogout) Logged out user: lanz
+[12/Apr/2018 1:32:38 AM] (loginAuth) Logged in user: lanz
+[14/Apr/2018 1:02:21 AM] (loginAuth) Logged in user: lanz
